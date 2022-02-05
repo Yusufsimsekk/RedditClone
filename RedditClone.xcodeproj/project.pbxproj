@@ -15,7 +15,6 @@
 		743D866427AD50DE006672F0 /* NetworkManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 743D866327AD50DE006672F0 /* NetworkManager.swift */; };
 		743D866727AD63C9006672F0 /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 743D866627AD63C9006672F0 /* DetailView.swift */; };
 		743D866927AD63CF006672F0 /* Webview.swift in Sources */ = {isa = PBXBuildFile; fileRef = 743D866827AD63CF006672F0 /* Webview.swift */; };
-		743D866B27AE46AC006672F0 /* UIImageExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 743D866A27AE46AC006672F0 /* UIImageExtension.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,7 +27,6 @@
 		743D866327AD50DE006672F0 /* NetworkManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkManager.swift; sourceTree = "<group>"; };
 		743D866627AD63C9006672F0 /* DetailView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
 		743D866827AD63CF006672F0 /* Webview.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Webview.swift; sourceTree = "<group>"; };
-		743D866A27AE46AC006672F0 /* UIImageExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIImageExtension.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,7 +64,6 @@
 				743D866527AD520D006672F0 /* Views */,
 				743D865627AD5058006672F0 /* Assets.xcassets */,
 				743D865827AD5058006672F0 /* Preview Content */,
-				743D866A27AE46AC006672F0 /* UIImageExtension.swift */,
 			);
 			path = RedditClone;
 			sourceTree = "<group>";
@@ -170,7 +167,6 @@
 			files = (
 				743D866427AD50DE006672F0 /* NetworkManager.swift in Sources */,
 				743D865527AD5056006672F0 /* ContentView.swift in Sources */,
-				743D866B27AE46AC006672F0 /* UIImageExtension.swift in Sources */,
 				743D865327AD5056006672F0 /* RedditCloneApp.swift in Sources */,
 				743D866927AD63CF006672F0 /* Webview.swift in Sources */,
 				743D866727AD63C9006672F0 /* DetailView.swift in Sources */,

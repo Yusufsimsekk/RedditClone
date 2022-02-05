@@ -24,8 +24,7 @@ struct ContentView: View {
                                         
                                     AsyncImage(url: URL(string: post.thumbnail)){ image in
                                         image.resizable()
-                                            .aspectRatio(contentMode: .fill)
-                                            .frame(width: .infinity, height: 100)
+                                            .frame(width: .infinity, height: 90)
                                     } placeholder: {
                                         Color.clear
                                             .frame(width: 0, height: 0)
